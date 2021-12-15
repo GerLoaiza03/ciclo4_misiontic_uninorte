@@ -99,11 +99,6 @@ Antes de que inicies aségurate de leer lo siguiente, con el fin de que tengas s
 - MongoDB Community Edition. [Descárgalo aquí](https://www.mongodb.com/try/download/community)
 - Librerías para NodeJs: Express, Nodemon, Mongoose, Morgan, dotenv, cors).
 - Heroku Cli. [Descárgalo aquí](https://devcenter.heroku.com/articles/heroku-cli)
-- Explicación sencilla de qué es un Backend:
-
-<div align="center">
-    <img src="img/ExplicacionBackend.png" alt="ExplicacionBackend" width="100%">
-</div>
 
 ## Links de nuestras clases
 
